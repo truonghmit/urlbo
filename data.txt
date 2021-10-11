@@ -1,1 +1,1 @@
-moonalla.net,docs.axelor.com,coinfinex.io
+["*://moonalla.net/*","*://docs.axelor.com/*","*://coinfinex.io/"]
